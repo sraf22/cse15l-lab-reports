@@ -10,7 +10,7 @@ __this should be bold__
 
 [Link](http://youtube.com) is a link
 
-![Image] (https://vetstreet-brightspot.s3.amazonaws.com/f4/8db2709e8911e0a2380050568d634f/file/Doberman-4-645mk062111.jpg)
+![Image] (http://ur/vetstreet-brightspot.s3.amazonaws.com/f4/8db2709e8911e0a2380050568d634f/file/Doberman-4-645mk062111.png)
 
 This is a doberman.
 
