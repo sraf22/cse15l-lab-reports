@@ -17,6 +17,7 @@ __this should be bold__
 [1]: http://vetstreet-brightspot.s3.amazonaws.com/f4/8db2709e8911e0a2380050568d634f/file/Doberman-4-645mk062111/b.jpg
 
 
+
 This is a doberman.
 
 > This is a blockquote.
