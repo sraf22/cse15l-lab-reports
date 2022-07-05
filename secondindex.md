@@ -22,14 +22,14 @@ This is a doberman.
 
 > This is a blockquote.
 
--List thing
--Other list thing
--Yet another list thing
+- List thing
+- Other list thing
+- Yet another list thing
 There is a horizontal rule below here
 
 ---
 
-1.This is also a list
+1. This is also a list
 2. This one is numbered, though
 3. This one is the doberman pic again ![Image] (https://vetstreet-brightspot.s3.amazonaws.com/f4/8db2709e8911e0a2380050568d634f/file/Doberman-4-645mk062111.jpg)
 
